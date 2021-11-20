@@ -36,7 +36,7 @@
     <ul class="cl nav-tool">
         <% for (var i in theme.account){ %>
          <li> 
-         <!-- 这是添加发邮件的功能 需要包含在<li> 层级 --> 
+         <!-- 这是添加发邮件的功能需要包含在<li> 层级 --> 
            <% if(theme.account[i].url.search('@')!=-1 && theme.account[i].url.search('.com')!=-1&&theme.account[i].toString().search('mail')){%>
              <a href="mailto:<%= theme.account[i].url %>" class="tooltipped" target="_blank" data-tooltip="邮件联系我" data-position="top" data-delay="50">
                 <i class="<%= theme.account[i].iconType %> fa-<%= theme.account[i].icon %>"></i>
