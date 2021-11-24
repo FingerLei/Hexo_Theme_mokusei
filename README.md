@@ -1,4 +1,4 @@
-预览地址：[https://iengu.github.io](https://iengu.github.io)   
+预览地址：[https://iengu.github.io](https://fingerlei.gitee.io)   
 
 ### 主题介绍
 一个基于hexo系统个人博客主题，全站自适应双栏布局，深色色块板块区分，风格简单干净，整体现代感较强，适合科技、技术、文字类博客使用。本主题内ICON图标使用第三方图标库 [font-awesome](https://fontawesome.com/)。
