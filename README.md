@@ -6,7 +6,7 @@
 ### 使用指南
 * 克隆项目到HEXO博客根目录themes文件夹下
 ```
-git clone --depth=1 https://github.com/iengu/hexo-theme-mokusei.git themes/mokusei
+git clone --depth=1 https://github.com/FingerLei/Hexo_Theme_mokusei.git themes/mokusei
 ```
 * 更改博客配置文件_config.yml, theme选项值设为mokusei
 ```
